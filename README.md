@@ -11,6 +11,7 @@ The foundation is a 100 km² elevated solar canopy, constructed from prefabricat
 This canopy includes:
 	•	A robotic rail system for automated panel maintenance and upgrades
 	•	Imported first-generation panels to power early infrastructure
+	* 	An on-site wafer fabrication facility, converting local sand into solar-grade silicon
 	•	An on-site solar panel factory powered by the canopy itself
 	•	A recycling facility to recover and reuse panel materials
 
@@ -74,7 +75,9 @@ This loop minimizes external dependency and maximizes resilience.
 	•	Exportable to other arid or energy-constrained regions
 	•	Minimal ecological impact compared to traditional infrastructure
 
-(IMG_72450889-ABD5-4F14-990F-CF846EA89062.jpeg)
+![SOLARCH2 Frame3](IMG_72450889-ABD5-4F14-990F-CF846EA89062.jpeg)
+
+
 
 
 
