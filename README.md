@@ -7,7 +7,7 @@ It is an automation-first, resource-sovereign, and climate-resilient platform fo
 
 2. Phase I: The SOLARCH2 Frame
 
-The foundation is a 100 km² elevated solar canopy, constructed from prefabricated steel components and raised to 20–30 meters height
+The foundation is a 100 km² elevated solar canopy, constructed from prefabricated concrete-steel components and raised to 20–30 meters height
 This canopy includes:
 	•	A robotic rail system for automated panel maintenance and upgrades
 	•	Imported first-generation panels to power early infrastructure
