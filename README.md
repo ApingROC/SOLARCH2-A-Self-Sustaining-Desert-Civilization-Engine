@@ -3,6 +3,30 @@ SOLARCH2 is a phased megastructure and infrastructure system designed to transfo
 
 It is an automation-first, resource-sovereign, and climate-resilient platform for future civilization.
 
+Maintenance-First Architecture
+
+At the core of SOLARCH2 is a robust structural scaffold with an integrated maintenance platform. This platform is designed for fully autonomous access to each solar panel, including panel inspection, cleaning, and replacement.
+
+All other features of the system must be built around this fundamental capability.
+
+To maximize reliability and minimize complexity, the maintenance platform is implemented as a modular crawler operating on fixed steel tracks embedded into the scaffold’s top beams.
+
+⸻
+
+Crawler Logic
+
+The crawler uses a dual-wheel system at each corner, with red and green wheels aligned to orthogonal directions on the grid. Its movement is determined by which wheels are lowered and which are engaged with the drivetrain:
+	•	Both red and green wheels down:
+→ Locked parking mode (stationary; drivetrain disengaged)
+	•	Red wheels lifted:
+→ Green wheels engaged with drivetrain
+→ Movement in green-axis direction
+	•	Green wheels lifted:
+→ Red wheels engaged with drivetrain
+→ Movement in red-axis direction
+
+All direction changes occur by mechanically lifting one set of wheels and engaging the other — with no turning required, no curves, and no rail switching.
+
 ⸻
 
 2. Phase I: The SOLARCH2 Frame
