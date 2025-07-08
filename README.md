@@ -77,6 +77,8 @@ This loop minimizes external dependency and maximizes resilience.
 
 ![SOLARCH2 Frame1](IMG_4684.jpeg)
 ![SOLARCH2 Frame3](IMG_72450889-ABD5-4F14-990F-CF846EA89062.jpeg)
+![SOLARCH2 Frame2](image.jpg)
+
 
 
 
