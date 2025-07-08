@@ -74,9 +74,5 @@ This loop minimizes external dependency and maximizes resilience.
 	•	Exportable to other arid or energy-constrained regions
 	•	Minimal ecological impact compared to traditional infrastructure
 
-![Sideviw](IMG_1744CCB6-4A06-463B-97B4-84F9A50AD451.jpeg)
 
-![Structure Top View](IMG_72450889-ABD5-4F14-990F-CF846EA89062.jpeg)
-
-![Maintenance Train Concept](IMG_96BDA39F-01CC-4496-B8C4.jpg)
 
