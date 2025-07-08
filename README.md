@@ -1,8 +1,6 @@
 # SOLARCH2-A-Self-Sustaining-Desert-Civilization-Engine
 SOLARCH2 is a phased megastructure and infrastructure system designed to transform uninhabitable desert environments into self-sustaining, productive ecosystems. By integrating large-scale solar canopies, local manufacturing, hydrogen-based water generation, and phased human settlement, SOLARCH2 offers a pragmatic alternative to speculative urban megaprojects.
 
-By integrating large-scale solar canopies, local manufacturing, hydrogen-based water generation, and phased human settlement, SOLARCH2 offers a pragmatic alternative to speculative urban megaprojects.
-
 It is an automation-first, resource-sovereign, and climate-resilient platform for future civilization.
 
 ⸻
