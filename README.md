@@ -75,6 +75,7 @@ This loop minimizes external dependency and maximizes resilience.
 	•	Exportable to other arid or energy-constrained regions
 	•	Minimal ecological impact compared to traditional infrastructure
 
+![SOLARCH2 Frame1](IMG_4684.jpeg)
 ![SOLARCH2 Frame3](IMG_72450889-ABD5-4F14-990F-CF846EA89062.jpeg)
 
 
